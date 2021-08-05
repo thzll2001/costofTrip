@@ -11,7 +11,9 @@
 5. Input the testing after ">" ,input costofTrip("point1","point2") ,it will caculate distance and cost.
 # demo
 >costofTrip("Keele Street","Bathurst Street")
+# 
 distance: 5.715
+#
 cost:1.429
 
 
