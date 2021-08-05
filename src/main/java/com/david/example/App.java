@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
 
 		System.out.println("Please copy the test json file to path(default is:d:/interchanes.json)");
