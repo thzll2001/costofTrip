@@ -1,6 +1,6 @@
 # costofTrip
 1. Clone the project to any directory
-2. Copy the testing file to interchanges.json to d:/interchanges.json
+2. Copy the testing file interchanges.json to d:/interchanges.json
 3. Execute windows command
     cmd.exe
 4. Go to the code directory and execute
