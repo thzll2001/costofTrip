@@ -8,7 +8,9 @@
 5. Go to the directory target and execute java jar
     sourcedir> cd target
     sourcedir> java -jar costofTrip-1.0-SNAPSHOT.jar
-5. Input the testing after ">" ,input costofTrip("point1","point2") ,it will caculate distance and cost.
+5. Input the testing data after ">" 
+   for exmaple:
+    input costofTrip("point1","point2") ,it will caculate distance and cost.
 # demo
 >costofTrip("Keele Street","Bathurst Street")
 # 
